@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+requests
+Pillow
+qrcode
+fpdf2
+google-generativeai
+gTTS
