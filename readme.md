@@ -383,15 +383,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | AI Insights | Chat Advisor | Settings |
 |-------------|--------------|----------|
 | ![Insights](https://via.placeholder.com/300x200/FFD166/000000?text=AI+Insights) | ![Chat](https://via.placeholder.com/300x200/118AB2/FFFFFF?text=Chat+Advisor) | ![Settings](https://via.placeholder.com/300x200/A78BFA/FFFFFF?text=Settings) |
-
-## 🎯 Quick Start Commands
-
-```bash
-# Quick setup and run
-git clone https://github.com/yourusername/ai-finance-advisor.git
-cd ai-finance-advisor
-pip install -r requirements.txt
-streamlit run finance_app_fixed.py
-```
-
----
