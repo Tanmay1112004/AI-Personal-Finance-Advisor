@@ -20,7 +20,12 @@
 
 **AI Personal Finance Advisor** is a comprehensive financial management application that leverages artificial intelligence to provide deep insights into your spending patterns, forecast future expenses, and offer personalized financial recommendations. With a beautiful dark theme interface and powerful analytics, it transforms raw transaction data into actionable financial intelligence.
 
-![Dashboard Preview](https://via.placeholder.com/800x400/8B5CF6/FFFFFF?text=AI+Finance+Advisor+Dashboard)
+![demo](https://github.com/Tanmay1112004/AI-Personal-Finance-Advisor/blob/main/scrennshots/Screenshot%202025-12-07%20215655.png)
+![demo](https://github.com/Tanmay1112004/AI-Personal-Finance-Advisor/blob/main/scrennshots/Screenshot%202025-12-07%20215718.png)
+![demo](https://github.com/Tanmay1112004/AI-Personal-Finance-Advisor/blob/main/scrennshots/Screenshot%202025-12-07%20215755.png)
+![demo](https://github.com/Tanmay1112004/AI-Personal-Finance-Advisor/blob/main/scrennshots/Screenshot%202025-12-07%20215811.png)
+![demo](https://github.com/Tanmay1112004/AI-Personal-Finance-Advisor/blob/main/scrennshots/Screenshot%202025-12-07%20215838.png)
+![demo](https://github.com/Tanmay1112004/AI-Personal-Finance-Advisor/blob/main/scrennshots/Screenshot%202025-12-07%20215854.png)
 
 ## ✨ Key Features
 
