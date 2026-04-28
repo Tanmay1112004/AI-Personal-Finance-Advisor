@@ -32,6 +32,23 @@ It combines **data analytics, machine learning, and intuitive UI/UX** to deliver
 
 ---
 
+## Demo Images 
+
+![demo](https://github.com/Tanmay1112004/AI-Personal-Finance-Advisor/blob/main/scrennshots/Screenshot%202025-12-07%20215655.png)
+
+![demo](https://github.com/Tanmay1112004/AI-Personal-Finance-Advisor/blob/main/scrennshots/Screenshot%202025-12-07%20215718.png)
+
+![demo](https://github.com/Tanmay1112004/AI-Personal-Finance-Advisor/blob/main/scrennshots/Screenshot%202025-12-07%20215755.png)
+
+![demo](https://github.com/Tanmay1112004/AI-Personal-Finance-Advisor/blob/main/scrennshots/Screenshot%202025-12-07%20215811.png)
+
+![demo](https://github.com/Tanmay1112004/AI-Personal-Finance-Advisor/blob/main/scrennshots/Screenshot%202025-12-07%20215838.png)
+
+![demo](https://github.com/Tanmay1112004/AI-Personal-Finance-Advisor/blob/main/scrennshots/Screenshot%202025-12-07%20215854.png)
+
+
+---
+
 ## ✨ Core Value Proposition
 
 > “Not just tracking expenses — enabling smarter financial decision-making.”
