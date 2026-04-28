@@ -318,7 +318,7 @@ MIT License
 
 **Author**: Tanmay
 **Email**: [tanmaykshirsagar001@gmail.com](mailto:tanmaykshirsagar001@gmail.com)
-**GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
+**GitHub**: [https://github.com/Tanmay1112004](https://github.com/Tanmay1112994)
 
 ---
 
