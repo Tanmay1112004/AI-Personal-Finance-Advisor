@@ -317,7 +317,7 @@ MIT License
 ## 📞 Contact
 
 **Author**: Tanmay
-**Email**: [your.email@example.com](mailto:your.email@example.com)
+**Email**: [tanmaykshirsagar001@gmail.com](mailto:tanmaykshirsagar001@gmail.com)
 **GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
 
 ---
