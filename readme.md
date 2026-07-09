@@ -147,7 +147,7 @@ This system acts like a **digital financial analyst**, helping users:
 
 ```bash
 # Clone repository
-git clone https://github.com/Tanmay1112004/ai-finance-advisor.git
+git clone https://github.com//ai-finance-advisor.git
 
 # Navigate
 cd ai-finance-advisor
