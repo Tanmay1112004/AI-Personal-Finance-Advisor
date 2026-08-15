@@ -324,9 +324,6 @@ MIT License
 
 <div align="center">
 
-### ⭐ If this helped you, drop a star
-
-**“Data + AI + Finance = Smarter Decisions”**
 
 </div>
 
